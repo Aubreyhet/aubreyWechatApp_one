@@ -1,0 +1,40 @@
+{
+  "pages":[
+    "pages/clock/clock",
+    "pages/wTime/wTime",
+    "pages/Stopwatch/Stopwatch",
+    "pages/Timer/Timer",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundColor":"#F2F2F2",
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "AubreyTools",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar":{
+    "backgroundColor":"#F2F2F2",
+    "selectedColor":"#6063F0",
+    "list":[
+      {
+        "pagePath":"pages/clock/clock",
+        "text":"闹钟"
+      },
+      {
+        "pagePath":"pages/wTime/wTime",
+        "text":"世界时间"
+      },
+      {
+        "pagePath":"pages/Stopwatch/Stopwatch",
+        "text":"秒表"
+      },
+      {
+        "pagePath":"pages/wTime/wTime",
+        "text":"定时器"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
