@@ -1,4 +1,4 @@
-// pages/wTime/wTime.js
+// pages/my/my.js
 Page({
 
   /**

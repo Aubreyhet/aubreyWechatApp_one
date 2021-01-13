@@ -1,4 +1,4 @@
-// pages/Timer/Timer.js
+// pages/cloud/cloud.js
 Page({
 
   /**

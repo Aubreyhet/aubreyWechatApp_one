@@ -1,5 +1,0 @@
-<!--pages/clock/clock.wxml-->
-<view>{{dateTime}}时钟</view>
-<view id="mClock">
-  <canvas ></canvas>
-</view>
